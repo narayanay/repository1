@@ -3,8 +3,8 @@
 
  Directory of C:\Users\Lakshman Chowdary\Desktop\My Project
 
-03/19/2021  03:19 PM    <DIR>          .
-03/19/2021  03:19 PM    <DIR>          ..
+03/19/2021  03:49 PM    <DIR>          .
+03/19/2021  03:49 PM    <DIR>          ..
 03/19/2021  03:19 PM               797 index.html
 03/17/2021  01:39 PM    <DIR>          movie-catelog-service
 03/17/2021  01:14 PM            58,165 movie-catelog-service.zip
@@ -12,6 +12,7 @@
 03/17/2021  01:14 PM            57,957 movie-info-service.zip
 03/17/2021  01:39 PM    <DIR>          movie-ratings-service
 03/17/2021  01:15 PM            58,163 movie-ratings-service.zip
-03/19/2021  03:48 PM                 0 test.txt
-               5 File(s)        175,082 bytes
-               5 Dir(s)  69,896,581,120 bytes free
+03/19/2021  03:48 PM               797 test.txt
+03/19/2021  03:49 PM                 0 test2.txt
+               6 File(s)        175,879 bytes
+               5 Dir(s)  69,896,642,560 bytes free
